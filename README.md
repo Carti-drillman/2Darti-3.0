@@ -17,3 +17,6 @@ After running it, create new project. If you want to add a object click Add Obje
 If you want to add script, click Script button. For starters, go learn Python because 2Darti's main language is Python. After you write some script, go click save to save the script and there you go.
 
 # THIS IS JUST A JOKE FOR DEVELOPERS
+
+# 2DARTI 3.0
+In this update, we fixed everything. We fixed Open Project button, added another button that can edit Objects.
